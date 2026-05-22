@@ -1,4 +1,4 @@
-# hii im zainab!!!
+# hii im zainab!
 
 currently learning web dev, python & ai while building random cool things along the way.
 
